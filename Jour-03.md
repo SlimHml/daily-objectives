@@ -7,7 +7,7 @@
   * [x] Savoir ce qu'est Linux
   * [x] Savoir ce qu'est une distribution Linux
   * [x] Comprendre l'arborescence de Linux
-* [ ] Découverte du Terminal : 
+* [x] Découverte du Terminal : 
   * [x] Comprendre la différence entre une interface en ligne de commande et une interface graphique
   * [x] Savoir ce qu'est un Shell, quelle différence entre BASH et ZSH 
   * [x] Comprendre comment fonctionne un shell
@@ -16,4 +16,4 @@
   * [x] Comprendre le principe des options dans les commandes
 * [ ] Découverte de Vim (Vimtutor)
 * [x] Découverte de VS Code
-* [ ] Choix de son éditeur, configuration et customisation
+* [x] Choix de son éditeur, configuration et customisation
