@@ -8,7 +8,7 @@
   * [x] Découvrir la documentation officielle JavaScript (http://javascript.info/manuals-specifications) : 
     * [x] Comprendre ce qu'est la spécification `ECMA-262`
     * [x] Comprendre ce qu'est le `TC-39`
-    * [ ] Lister les bonnes sources de documentation
+    * [x] Lister les bonnes sources de documentation
 
 * [x] Algo : 
   * [x] Comprendre ce qu'est un algorithme
@@ -20,5 +20,5 @@
   * [x] Comprendre le fonctionnement des inputs en HTML5 et savoir les manipuler
   * [x] Découvrir les formulaires et leur validation en HTML5
   * [x] Comprendre l'utilité et le fonctionnement des labels en HTML5
-  * [ ] Comprendre le fonctionnement des dropdwowns, boutons radio, et checkbox
-  * [ ] Savoir insérer une vidéo dans une page HTML (Youtube, locale)
+  * [x] Comprendre le fonctionnement des dropdwowns, boutons radio, et checkbox
+  * [x] Savoir insérer une vidéo dans une page HTML (Youtube, locale)
