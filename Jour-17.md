@@ -3,9 +3,9 @@
 ## Mardi 27/08/2019
 
 
-* [ ] Javascript :
-  * [ ] Comprendre le fonctionnement des opérateurs logiques `||`, `&&` et `!` (https://javascript.info/logical-operators)
-    * [ ] Faire les 9 exercices
+* [x] Javascript :
+  * [x] Comprendre le fonctionnement des opérateurs logiques `||`, `&&` et `!` (https://javascript.info/logical-operators)
+    * [x] Faire les 9 exercices
 
 * [ ] Algo : 
   * [ ] Ecrire en pseudocode le Bubble Sort (création pure)
