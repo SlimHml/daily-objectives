@@ -11,10 +11,10 @@
 ### SQL :
 
 - [x] Savoir ce qu'est une base de données (https://youtu.be/XQ_6G0iCyMQ)
-- [ ] Savoir ce qu'est `SQL` et une base de données relationnelle (https://youtu.be/MZdO1UbTG4U)
+- [x] Savoir ce qu'est `SQL` et une base de données relationnelle (https://youtu.be/MZdO1UbTG4U)
 - [x] Découvrir ce qu'est `PostgreSQL` (https://youtu.be/tzbA7VniRpw)
 - [x] Installation de `PostgreSQL`
-- [ ] Découvrir le fonctionnement du `REPL` de `PostgreSQL`
+- [x] Découvrir le fonctionnement du `REPL` de `PostgreSQL`
 - [x] Création/suppression de comptes utilisateurs
 - [x] Création de bases de données (https://youtu.be/DvDOU-v822w)
 - [x] Suppression de bases de données (https://youtu.be/IWkNbJhn2TM)
