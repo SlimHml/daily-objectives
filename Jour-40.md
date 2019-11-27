@@ -20,23 +20,23 @@
     - [ ] `SERIAL`
   - [ ] Les types chaînes de caractères :
     - [ ] `CHAR`
-    - [ ] `VARCHAR`
-    - [ ] `TEXT`
+    - [x] `VARCHAR`
+    - [x] `TEXT`
   - [ ] Les types dates :
     - [ ] `TIME`
     - [ ] `DATE`
     - [ ] `TIMESTAMP`
   - [ ] Autres :
-    - [ ] `BOOLEAN`
+    - [x] `BOOLEAN`
     - [ ] `ENUM`
 
 - [ ] Savoir générer une base de données avec `Mockaroo` (https://mockaroo.com/)
 - [ ] Savoir restaurer une base de données
 - [ ] Savoir restaurer le schéma d'une base de donnée uniquement
 - [ ] Savoir retrouver une ou plusieurs tables d'une base de données
-- [ ] Installer `pgcli` (https://www.pgcli.com/) et refaire les manipulations précédentes avec
+- [x] Installer `pgcli` (https://www.pgcli.com/) et refaire les manipulations précédentes avec
 
 ### Node.JS :
 
-- [ ] Installation du moteur de template `Pug` (https://pugjs.org/api/getting-started.html)
+- [x] Installation du moteur de template `Pug` (https://pugjs.org/api/getting-started.html)
 - [ ] Savoir créer des vues personnalisées avec `Pug` ou `EJS` (plusieurs fois, plusieurs différentes)

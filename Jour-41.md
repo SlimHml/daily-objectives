@@ -18,10 +18,10 @@
 ### SQL :
 
 - [ ] Commencer son cheat sheet `PostgreSQL` (classer par actions)
-- [ ] Savoir retrouver une information d'une base de données
+- [x] Savoir retrouver une information d'une base de données
 - [ ] Savoir trier les résultats
-- [ ] Savoir extraire les données distinctes
-- [ ] Savoir retrouver une information selon des conditions précises
+- [x] Savoir extraire les données distinctes
+- [x] Savoir retrouver une information selon des conditions précises
 
   #### Bonus de vacances :
 
@@ -33,12 +33,12 @@
 
 ### Node.JS :
 
-- [ ] Découvrir le `routing` d'`Express` (https://expressjs.com/en/starter/basic-routing.html)
-- [ ] Savoir créer des routes différentes qui pointent vers des vues précises en fonction de l'url demandée
+- [x] Découvrir le `routing` d'`Express` (https://expressjs.com/en/starter/basic-routing.html)
+- [x] Savoir créer des routes différentes qui pointent vers des vues précises en fonction de l'url demandée
 
   #### Bonus de vacances :
 
-  - [ ] Installation de `express-generator`
-  - [ ] Génération d'une application avec `express-generator` avec moteur de template de son choix
+  - [x] Installation de `express-generator`
+  - [x] Génération d'une application avec `express-generator` avec moteur de template de son choix
   - [ ] Analyse de l'architecture d'une application générée par `express-generator`
   - [ ] Ajouts/modifications des routes et de vues personnalisées d'une app générée par `express-generator` (plusieurs fois)

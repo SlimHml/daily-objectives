@@ -11,7 +11,7 @@
 
 - [x] Découvrir ce que sont les frameworks et leur utilité (recherche personnelle)
 
-- [ ] Comprendre l'utilité des frameworks JS frontend (recherche en groupe)
+- [x] Comprendre l'utilité des frameworks JS frontend (recherche en groupe)
 
 - [x] Comprendre la différence entre un framework et une librairie
 
